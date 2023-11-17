@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+  <schema path="/org/gnome/shell/extensions/invert-colors/" id="org.gnome.shell.extensions.invert-colors">
+    <key name="enabled" type="b">
+      <default>false</default>
+    </key>
+  </schema>
+</schemalist>

@@ -1,0 +1,12 @@
+{
+  "uuid": "invertcolors@shurizzle.dev",
+  "name": "Invert Colors",
+  "description": "Invert colors in GNOME",
+  "url": "https://www.github.com/shurizzle/gnome-invert-colors",
+  "shell-version": [
+    "45",
+    "46",
+    "47"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.invert-colors"
+}
